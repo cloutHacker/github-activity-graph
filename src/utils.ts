@@ -82,7 +82,7 @@ export const getGraph =
         }
 
         const graph: Card = new Card(
-          360,
+          300,
           1200,
           options.colors,
           title,
